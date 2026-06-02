@@ -1,1 +1,0 @@
-# Librerías de Python requeridas (scikit-learn, pandas, joblib)
